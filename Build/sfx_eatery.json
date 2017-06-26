@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "sfx_eatery.data.unityweb",
+"asmCodeUrl": "sfx_eatery.asm.code.unityweb",
+"asmMemoryUrl": "sfx_eatery.asm.memory.unityweb",
+"asmFrameworkUrl": "sfx_eatery.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
