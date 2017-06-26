@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "disassembletool.data.unityweb",
-"asmCodeUrl": "disassembletool.asm.code.unityweb",
-"asmMemoryUrl": "disassembletool.asm.memory.unityweb",
-"asmFrameworkUrl": "disassembletool.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
-}
