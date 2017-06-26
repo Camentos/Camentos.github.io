@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "camorbit.data.unityweb",
+"asmCodeUrl": "camorbit.asm.code.unityweb",
+"asmMemoryUrl": "camorbit.asm.memory.unityweb",
+"asmFrameworkUrl": "camorbit.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
